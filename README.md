@@ -1,7 +1,7 @@
 # Deployment-and-configuration-of-a-Private-Cloud-in-AWS
 
-#### Name: Preethi J
-#### Reg no: 212223220080
+#### Name: TONI RAJA R
+#### Reg no: 212223070026
 
 ## Aim:
 To set up of a Private Cloud  in AWS.
